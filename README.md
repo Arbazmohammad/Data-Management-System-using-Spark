@@ -37,6 +37,9 @@ I created Entity-Relationship (ER) and Enhanced Entity-Relationship (EER) diagra
 
 ![image](https://github.com/user-attachments/assets/519a4e57-bd7f-4a18-88eb-bfc3d10e80b5)
 
+## Relational Model Diagram
+![image](https://github.com/user-attachments/assets/b4c085e2-55ad-4862-b73f-0c8a3f86c208)
+
 ## Database Implementation
 The implementation includes SQL commands for:
 
